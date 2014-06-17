@@ -1,0 +1,9 @@
+/* CSS for pdfXBlock */
+
+.pdf_block .count {
+    font-weight: bold;
+}
+
+.pdf_block p {
+    cursor: pointer;
+}
