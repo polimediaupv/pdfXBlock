@@ -1,4 +1,4 @@
-cdfXblock
+pdfXblock
 =========
 
 Xblock to visualice pdf files in edX
