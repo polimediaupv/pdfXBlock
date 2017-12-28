@@ -14,7 +14,7 @@ class pdfXBlock(XBlock):
     # self.<fieldname>.
     # TO-DO: change the default href so it is included as a resource in the xblock, not an url
     href = String(display_name="href",
-                  default="http://www.upv.es/miw/infoweb/vcamp/info/plano-upv-es.pdf",
+                  default="http://www.upv.es/plano/directorio-es.pdf",
                   scope=Scope.content,
                   help="PDF file that will be shown in the XBlock")
 
